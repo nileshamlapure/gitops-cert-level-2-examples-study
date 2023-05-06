@@ -16,7 +16,7 @@ spec:
    
   destination:
     server: https://kubernetes.default.svc
-    namespace: staging
+    namespace: qa
 
   # Sync policy
   syncPolicy:
